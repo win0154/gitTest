@@ -1,3 +1,0 @@
-This is sample file for test git cli
-
-@@ add from 'issue1'
